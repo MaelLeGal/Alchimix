@@ -11,3 +11,10 @@
 - Le jeu fonctionne bien que les performances soient constestables.
 - Un axe d'amélioration serait l'ajout d'assets et la confection de plus de recettes
 - et un peu d'optimisation.
+
+## Membres
+- Zeineb Derbel
+- Clément Eléouet
+- Le Gal Maël
+- Belgacem fatma
+- Bourdin Yvan
